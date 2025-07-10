@@ -1,6 +1,6 @@
 const user = {
-  name: "Liza",
-  city: "New York",
+  name: "Njoroge",
+  city: "Nairobi",
   bio: "I made this!",
   color: "firebrick",
   links: {
@@ -10,3 +10,4 @@ const user = {
 };
 
 export default user;
+
